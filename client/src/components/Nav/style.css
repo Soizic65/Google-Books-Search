@@ -1,0 +1,16 @@
+/* NAV START */
+
+#logo {
+	font-family:'IM Fell English SC', serif;
+	font-size: 50px;
+	font-weight: bold;
+    color:black;
+    padding-left:20%;
+}
+
+.navbar {
+	background-color: white;
+	border: none;
+}
+
+
